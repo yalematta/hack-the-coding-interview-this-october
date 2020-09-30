@@ -69,7 +69,7 @@ Start by reading the brief introduction of each pattern before jumping onto the 
 
 ### Prerequisites
 
-You need to have a basic understanding of data-structures like Array, LinkedList, HashMap, Stack, Queue, Heap, and Graph.
+You need a basic understanding of data-structures like Array, LinkedList, HashMap, Stack, Queue, Heap, and Graph.
 <br />
 You should also be familiar with [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) and [Big-O](https://en.wikipedia.org/wiki/Big_O_notation)
 
