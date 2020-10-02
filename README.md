@@ -27,7 +27,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Contribution][hacktoberfest-shield]][hacktoberfest-url]
 
-# Hack the coding interview this october!
+# Hack the coding interview this October!
 
 <p align="start">
     Work on your algorithms &amp; problem-solving skills while contributing to open-source this Hacktoberfest!
